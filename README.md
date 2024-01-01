@@ -58,7 +58,7 @@
 <br>
 <div align=center>
   <img width=390 src="https://streak-stats.demolab.com/?user=DaffaFayyaz&theme=dark" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats.vercel.app" alt="readme stats" />
+  <img width=390 src="[https://github-readme-stats.vercel.app](https://github-readme-stats.vercel.app/api?username=DaffaFayyaz)](https://github.com/DaffaFayyaz/github-readme-stats))" alt="readme stats" />
   <br/>
   <img width=325 align="center" src="https://github-readme-stats-DaffaFayyaz.vercel.app/api/top-langs/?username=DaffaFayyaz&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>

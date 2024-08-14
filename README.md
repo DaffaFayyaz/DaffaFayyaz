@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **ExpressJs, ReactJs, NodeJs**
 
-💬 Ask me about **Laravel, CodeIgniter, MySQL... or anything [here](https://github.com/DaffaFayyaz/DaffaFayyaz/issues)**
+💬 Ask me about **NodeJS, PostgreSQL... or anything [here](https://github.com/DaffaFayyaz/DaffaFayyaz/issues)**
 
  </div>
  
